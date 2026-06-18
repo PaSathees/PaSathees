@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Sathees 👋
 
-<!--
-**PaSathees/PaSathees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack engineer (Django · Next.js) learning to build **LLM apps and AI agents** — RAG, tool-using agents, and the
+evals/tracing/cost work that makes them production-ready. My MSc research is on **agentic AI systems**.
 
-Here are some ideas to get you started:
+I'm building in public. Each project I share is end-to-end: deployed, tested, traced.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠 Stack:** Python · FastAPI · LangGraph · PostgreSQL/pgvector · TypeScript · Next.js
+
+**📈 What I'm doing now**
+- 📚 Public learning log → [applied-ai-engineer-career](https://github.com/PaSathees/applied-ai-engineer-career)
+- 🔭 Building a RAG app + an agentic app (links land here as they ship)
+- ✍️ Writing short posts on what I get wrong along the way
+
+**🌐** [satheespaskaran.com](https://satheespaskaran.com)
+
+_It's a journey log, not a tutorial. If something here helps you, take it._
