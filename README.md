@@ -8,9 +8,9 @@ I'm building in public. Each project I share is end-to-end: deployed, tested, tr
 **🛠 Stack:** Python · FastAPI · LangGraph · PostgreSQL/pgvector · TypeScript · Next.js
 
 **📈 What I'm doing now**
+- 🔭 Building [upgrade-planner](https://github.com/PaSathees/upgrade-planner) — an agentic planner for hardware upgrades (FastAPI · LangGraph · pgvector · Next.js)
 - 🤖 Built AgentC: a hierarchical multi-agent LangGraph system (MSc dissertation); clean public version coming
 - 📚 Public learning log → [applied-ai-engineer-career](https://github.com/PaSathees/applied-ai-engineer-career)
-- 🔭 Building a RAG app + an agentic app (links land here as they ship)
 - ✍️ Writing short posts on what I get wrong along the way
 
 **🌐** [satheespaskaran.com](https://satheespaskaran.com)
