@@ -1,3 +1,5 @@
+![Agents, RAG, and the engineering that makes them production-ready](assets/banner.png)
+
 ### Hi, I'm Sathees 👋
 
 I'm an applied AI engineer who came from software engineering. I build **LLM apps and AI agents**:
