@@ -6,7 +6,7 @@ I'm an applied AI engineer who came from software engineering. I build **LLM app
 RAG, tool-using agents, and the evals/tracing/cost work that makes them production-ready. My MSc
 research was on **agentic AI systems**.
 
-I'm building in public. Each project I share aims to be end-to-end: deployed on AWS, tested, traced.
+I'm building in public. Each project I share aims to be end-to-end: deployed, tested, traced.
 
 **🛠 Stack:** Python · FastAPI · LangGraph · PostgreSQL/pgvector · TypeScript · Next.js
 
