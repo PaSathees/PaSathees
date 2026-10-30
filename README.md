@@ -9,7 +9,9 @@ violations in a 19-day physical trial.
 
 I'm building in public. Each project I share aims to be end-to-end: deployed, tested, traced.
 
-**🛠 Stack:** Python · FastAPI · LangGraph · PostgreSQL/pgvector · TypeScript · Next.js
+**🛠 Stack:** Python · FastAPI · LangGraph · PostgreSQL/pgvector · MQTT · Node-RED · TypeScript · Next.js
+
+**🔋 Learning now:** time-series forecasting · edge LLMs (llama.cpp, Ollama, ONNX Runtime) · OPC UA · Modbus
 
 **📈 What I'm doing now**
 - 🔋 Starting AgentC Edge: small models on a box inside the site, advising on real meter data, with human approval
