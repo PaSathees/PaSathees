@@ -1,4 +1,4 @@
-![Agents, RAG, and the engineering that makes them production-ready](assets/banner.png)
+![Agents for energy and carbon, measured.](assets/banner.png)
 
 ### Hi, I'm Sathees 👋
 
