@@ -2,17 +2,19 @@
 
 ### Hi, I'm Sathees 👋
 
-I'm an applied AI engineer who came from software engineering. I build **LLM apps and AI agents**:
-RAG, tool-using agents, and the evals/tracing/cost work that makes them production-ready. My MSc
-research was on **agentic AI systems**.
+I'm an applied AI engineer for **energy and carbon operations**, and I came to it through software
+engineering. I build **multi-agent systems**, plus the evals, tracing and cost work that makes them
+production-ready. My MSc dissertation, AgentC, cut Scope 2 emissions by 14.7% with zero constraint
+violations in a 19-day physical trial.
 
 I'm building in public. Each project I share aims to be end-to-end: deployed, tested, traced.
 
 **🛠 Stack:** Python · FastAPI · LangGraph · PostgreSQL/pgvector · TypeScript · Next.js
 
 **📈 What I'm doing now**
-- 🔭 Building [partquote](https://github.com/PaSathees/partquote), an agentic quoting assistant for made-to-order manufacturing (FastAPI · LangGraph · pgvector · Next.js)
-- 🤖 Built AgentC (Jul 2025 to Jul 2026): a hierarchical multi-agent LangGraph system, my MSc dissertation. Source stays private until convocation.
+- 🔋 Starting AgentC Edge: small models on a box inside the site, advising on real meter data, with human approval
+- 🔭 Building [partquote](https://github.com/PaSathees/partquote), agentic quoting on real jobs from my 3D-printing business (FastAPI · LangGraph)
+- 🤖 Built AgentC (Jul 2025 to Jul 2026): a hierarchical multi-agent LangGraph system with IoT, my MSc dissertation. Source stays private until convocation.
 - ✍️ Writing short posts on what I get wrong along the way
 
 **🌐** [satheespaskaran.com](https://satheespaskaran.com)
