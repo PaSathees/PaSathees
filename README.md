@@ -4,8 +4,8 @@
 
 I'm an applied AI engineer for **energy and carbon operations**, and I came to it through software
 engineering. I build **multi-agent systems**, plus the evals, tracing and cost work that makes them
-production-ready. My MSc dissertation, AgentC, produced 14.7% less Scope 2 emissions than a baseline, with zero
-constraint violations, in a trial on a physical work-desk setup.
+production-ready. My MSc dissertation, AgentC, came in about 15% below a relaxed-goal baseline, with no
+safety-limit violations, in a one-week what-if comparison on a small desk setup.
 
 I'm building in public. Each project I share aims to be end-to-end: deployed, tested, traced.
 
