@@ -3,8 +3,7 @@
 ### Hi, I'm Sathees 👋
 
 I'm an applied AI engineer for **energy and carbon operations**, and I came to it through software
-engineering. I build **multi-agent systems**, plus the evals, tracing and cost work that makes them
-production-ready. My MSc dissertation, AgentC, came in about 15% below a relaxed-goal baseline, with no
+engineering. I build **multi-agent systems**, with evals and tracing. My MSc dissertation, AgentC, came in about 15% below a relaxed-goal baseline, with no
 safety-limit violations, in a one-week what-if comparison on a small desk setup.
 
 I'm building in public. Each project I share aims to be end-to-end: deployed, tested, traced.
@@ -15,7 +14,7 @@ I'm building in public. Each project I share aims to be end-to-end: deployed, te
 
 **📈 What I'm doing now**
 - 🔋 Starting AgentC Edge: small models on a box inside the site, advising on real meter data, with human approval
-- 🔭 Building [partquote](https://github.com/PaSathees/partquote), agentic quoting on real jobs from my 3D-printing business (FastAPI · LangGraph)
+- 🔭 Building [partquote](https://github.com/PaSathees/partquote), agentic quoting I plan to integrate with my 3D-printing business; in progress (FastAPI · LangGraph)
 - 🤖 Built AgentC (Jul 2025 to Jul 2026): a hierarchical multi-agent LangGraph system with IoT, my MSc dissertation.
 - ✍️ Writing short posts on what I get wrong along the way
 
